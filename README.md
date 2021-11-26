@@ -1,10 +1,12 @@
 # Scala : Recursion
 
 ## Recursion
-
+A programming technique that calls itself in a method or function.  
 
 ## Tail Recursion
-
+A recursive function, where the last process calls itself.  
+The Scala compiler optimizes tail recursion to a while loop.  
+This improves processing speed and avoids stack overflow.  
 
 ## Code Sample
 ### Recursion
